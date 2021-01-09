@@ -1,0 +1,5 @@
+{
+  "country": ["UK", "France", "Italy"],
+  "capital":["London", "Paris", "Rome"],
+  "code": ["+44", "+33", "+39"]
+}
